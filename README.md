@@ -1,3 +1,5 @@
+Projekt sklepu internetowego I&I
+
 Logowanie na Admina:
 Login: admin@gmail.com
 Haslo: Password1234@
